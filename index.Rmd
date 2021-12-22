@@ -1,5 +1,7 @@
 ---
-title: "Personal Website"
+title: "Alanna N Shaw"
 ---
+(she/they)
+is a PhD candidate at the University of Montana.
 
-Hello, World!
+![](ajo.jpg)

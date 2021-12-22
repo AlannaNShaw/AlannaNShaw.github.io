@@ -1,11 +1,16 @@
 ---
-name: "personal-website"
+name: "Alanna N Shaw"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Alanna N Shaw"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "CV"
       href: about.html
+      
+output:
+  html_document:
+    theme: flatly
+    css: style.css
 ---
