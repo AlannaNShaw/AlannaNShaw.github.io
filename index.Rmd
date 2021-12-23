@@ -1,7 +1,7 @@
 ---
-title: "Alanna N Shaw"
+title: "Alanna"
 ---
-(she/they)
-is a PhD candidate at the University of Montana.
 
-![](ajo.jpg)
+(she/they) is a PhD candidate at the University of Montana.
+
+![](ajo.jpg){width="500"}

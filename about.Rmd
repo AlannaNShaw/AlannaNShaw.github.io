@@ -3,5 +3,132 @@ title: "CV"
 output: html_document
 ---
 
+# Alanna N Shaw                                                             
 
+| Department of Ecosystem & Conservation Sciences
+| W.A. Franke College of Forestry & Conservation
+| Charles H Clapp Building #423                                                                                                       
+| University of Montana                                                                                       
+| [Alanna.Shaw\@umontana.edu](mailto:Alanna.Shaw@umontana.edu){.email}                                                                                                        
 
+## EDUCATION 
+
+Ph.D. Systems Ecology (anticipated May 2022)\
+W.A. Franke College of Forestry and Conservation, University of Montana, MT
+
+B.S. Plant Biology, 2012\
+Department of Environmental and Plant Biology, Ohio University, OH Minor: Spanish
+
+## RESEARCH EXPERIENCE 
+
+-   2016- Graduate Research Assistant, [Terrestrial Ecosystem Ecology Laboratory](https://www.cfc.umt.edu/research/biogeochemistry/), W.A. Franke College of Forestry and Conservation, University of Montana
+
+-   2012-2016 Research Assistant, MPG Ranch 2012 Research Specialist, The Holden Arboretum
+
+-   2010-2012 Undergraduate Research Assistant, Soil Ecology Laboratory Department of Environmental and Plant Biology, Ohio University
+
+## TEACHING & MENTORSHIP EXPERIENCE 
+
+-   Spring 2017, 2019, 2020, & 2022 Teaching Assistant, FORS 201: Soils, Water, & Climate
+
+## PUBLICATIONS 
+
+-   8\. Shaw, AN, JS Hall, M van Breugel & CC Cleveland. (in prep). "Robbing the Phosphorus Vault: Can Tropical Rainforest Trees Access and Use "Unavailable" P?"
+
+-   7\. Smemo, KA, SM Petersen, LA Kluber, AN Shaw, & JL DeForest. 2021. "[Temporal soil enzyme patterns provide new insights into the nutrient economy of acidic hardwood forests](https://link.springer.com/article/10.1007/s10533-021-00814-7)." Biogeochemistry. 155: 97-112.
+
+-   6\. Shaw, AN & CC Cleveland. 2020. "[The effects of temperature on soil phosphorus availability and phosphatase enzyme activities: a cross-ecosystem study from the tropics to the Arctic](https://link.springer.com/article/10.1007/s10533-020-00710-6)." Biogeochemistry 151:113-125.
+
+-   5\. Buchkowski, RW, AN Shaw, D Sihi, GR Smith, & AD Keiser. 2019. "[Constraining carbon and nutrient flows in soil with ecological stoichiometry](https://www.frontiersin.org/articles/10.3389/fevo.2019.00382/full#:~:text=Constraining%20Carbon%20and%20Nutrient%20Flows%20in%20Soil%20With%20Ecological%20Stoichiometry,-Robert%20W.&text=Soil%20organic%20matter%20(SOM)%20is,storage%20and%20terrestrial%20nutrient%20cycling.&text=Explicitly%20representing%20stoichiometry%2C%20the%20relative,could%20provide%20a%20way%20forward.)." Frontiers in Ecology & Evolution 7(382).
+
+-   4\. Soper, FM, BW Sullivan, BB Osborne, AN Shaw, L Philippot, & CC Cleveland. 2019. "[Leaf-cutter ants engineer large nitrous oxide hot spots in tropical forests](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2504)." Proceedings of the Royal Society B: Biological Sciences 286(1894).
+
+-   3\. Shaw, AN & DL Mummey. 2017. "[Poa secunda Local Collections and Commercial Releases: A Genotypic Evaluation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173221)" PLoS ONE 12(4) e0173221
+
+-   2\. Shaw, AN & JL DeForest. 2013. "[The cycling of readily available phosphorus in response to elevated phosphorus in acidic temperate deciduous forests](https://www.sciencedirect.com/science/article/pii/S0929139312002314?casa_token=2GZ2madQhi4AAAAA:2To5NOT55d9sAzoY5sI1Yko1slvkQQRCM7xv5q1JNwXKWzwGA6_YdLYAEN7YbgahvaJ0JezYNHM)." Applied Soil Ecology 63:88-93
+
+-   1\. Kluber, LA, SR Carrino-Kyker, KP Coyle, JL DeForest, CR Hewins, AN Shaw, KA Smemo, & DJ Burke. 2012. "[Mycorrhizal response to experimental pH and P manipulation in acidic hardwood forests.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048946)" PLoS ONE 7(11): e48946. doi:10.1371/journal.pone.0048946
+
+##  RESEARCH PRESENTATIONS 
+
+### Invited Papers
+
+-   "Into the phosphorus void: nutrient limitation and acidification of eastern deciduous forests." AN Shaw. 11/16/2012. MPG Ranch. Missoula, MT.
+
+### Contributed Papers 
+
+#### Talks
+
+-   2017 "The effects of temperature on net P mineralization: a cross-biome comparison." AN Shaw & CC Cleveland. 2017 Meeting of the Ecological Society of America, Portland, OR
+
+-   2017 "WWNCD: What will nutrient cycles do (under climate change)." AN Shaw & CC Cleveland. 2017 University of Montana GradCon. Missoula, MT
+
+-   2015 "Poa secunda genetics: a comparison of local and commercial plant materials." AN Shaw & DL Mummey. 2015 National Native Seed Conference, Santa Fe, NM
+
+-   2014 "Towards a genotypic characterization of the interspace species Poa secunda." AN Shaw, LM Shreading, & DL Mummey. MPG Conference, Missoula, MT
+
+#### Posters
+
+-   2019 "Robbing the Phosphorus Vault: Can Tropical Rainforest Trees Access and Use "Unavailable" P?" AN Shaw, BL Turner, JS Hall, & CC Cleveland. The Soil Ecology Society Biennial Meeting 2019, Toledo, OH
+
+-   2016 "Chronic nitrogen deposition may shift temperate forests from nitrogen to phosphorus economies." AN Shaw & JL DeForest. INTERFACE workshop: Phosphorus Cycling in Terrestrial Ecosystems, Townsend, TN
+
+-   2012 "Is phosphorus limiting to unglaciated Ohio forests?" AN Shaw, N Romito, & JL DeForest. Ohio University Student Research and Creativity Expo and 2012 Ohio University Department of Environmental and Plant Biology Undergraduate Poster Session, Athens, OH
+
+-   2011 "The cycling of readily available phosphorus in response to phosphate additions" AN Shaw & JL DeForest. Fall Meeting of the American Geophysical Union, San Francisco, CA
+
+-   2011 "Quantifying labile phosphorus cycling in unglaciated eastern deciduous forests" AN Shaw & JL DeForest. Ohio University Student Research and Creativity Expo and 2011 Ohio University Department of Environmental and Plant Biology Undergraduate Poster Session, Athens, OH
+
+## PROFESSIONAL DEVELOPMENT 
+
+-   Spring 2021: INCyTE RCN Collaborative Seminar: "Nutrient Cycles in Earth System Models -- Challenges, opportunities, and frontiers"
+-   Summer 2019: WoodStoich 4
+-   Fall 2017- present: Peer Editor, NPR SciCommers
+-   Fall 2017: Massive Science: Climate Science Cohort Fall
+-   2017: ComSciCon Rocky Mountain West Workshop, Colorado University (Boulder, CO)
+-   Spring 2017: Jump Start Thesis/Dissertation Writing Program, The Writing Center, University of Montana
+
+## SERVICE
+
+-   Scientist Mentor, Missoula Insectarium "Girls and Bugs" after-school program, 2016-2018
+
+-   Judge, Montana Science Fair, 2017-2019
+
+-   Skype a Scientist, 2018-present
+
+## SCHOLARSHIPS AND AWARDS 
+
+### Scholarships
+
+#### *Graduate* 
+
+-   Forestry Scholarship *\$2000*
+-   W.A. Franke Scholarship Fund *\$5500*
+-   Forestry Scholarship *\$2000*
+-   Lisa Ann Fisher Memorial Scholarship *\$1000*
+-   Bertha Morton Scholarship *\$3000*
+-   John Richard Seiver Scholarship *\$2168*
+-   George E. Bright Memorial Fellowship *\$2000*
+-   Elenore H. Schofield & Donald J. Schofield Scholarship *\$1000*
+
+#### *Undergraduate* 
+
+-   The Thomas and Edna Wolfe Senior Scholarship
+-   The Charles E. Miller Scholarship
+-   C. Paul and Beth K. Stocker Scholarship
+-   M.T. Vermillion Scholarship
+-   Dean's Scholarship
+-   Gateway Scholarship
+
+## Awards
+
+-   ComSciCon Rocky Mountain West Travel Award (2017)
+-   INTERFACE Travel Award (2016)
+-   Ohio University Undergraduate Travel Award (2011)
+
+## PROFESSIONAL SOCIETIES 
+
+-   Ecological Society of America
+-   Earth Science Women's Network
+-   Graduate Women in Science (Missoula Chapter)
+-   Soil Ecology Society
